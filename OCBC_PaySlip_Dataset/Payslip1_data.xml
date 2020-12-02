@@ -1,0 +1,435 @@
+<?xml version='1.0' encoding='us-ascii'?>
+<document xmlns="http://www.scansoft.com/omnipage/xml/ssdoc-schema3.xsd">
+<summary>
+</summary>
+<page app-vers="omnipage-csdk-20.3" ocr-vers="omnipage-csdk-20.3">
+<description>
+<source dpix="300" dpiy="300" file="/home/ubuntu/PaySlip/Payslip1.pdf" sizex="2550" sizey="3300" />
+<theoreticalPage height="3300" marginBottom="0" marginLeft="0" marginRight="0" marginTop="0" size="Custom" width="2550" />
+<language>en</language>
+</description>
+<zones>
+<textZone b="191" chrFilter="all" fillingMethod="omnifont" l="585" r="771" recognitionModule="omnifontPlus3w" t="158">
+<ln b="190" baseLine="902" fontSize="900" l="585" r="770" t="158" underlined="none">
+<wd b="189" l="585" r="687" t="158" underlined="single">Name</wd>
+<space width="58" />
+<wd b="190" l="699" r="770" t="161">One</wd>
+<space />
+</ln>
+</textZone>
+<textZone b="942" chrFilter="all" fillingMethod="omnifont" l="238" r="487" recognitionModule="omnifontPlus3w" t="299">
+<ln b="343" baseLine="1603" fontSize="1100" l="238" r="437" t="299" underlined="none">
+<wd b="343" l="238" r="437" t="299">Company</wd>
+<space />
+</ln>
+<ln b="511" baseLine="2405" fontSize="1100" l="240" r="444" t="465" underlined="none">
+<wd b="511" l="240" r="444" t="465">Employee</wd>
+<space />
+</ln>
+<ln b="563" baseLine="2702" fontSize="1100" l="240" r="400" t="527" underlined="none">
+<wd b="563" l="240" r="400" t="527">Position</wd>
+<space />
+</ln>
+<ln b="695" baseLine="3288" fontSize="1100" l="240" r="462" t="650" underlined="none">
+<wd b="695" l="240" r="316" t="650">Pay</wd>
+<space width="86" />
+<wd b="685" l="334" r="462" t="650">Period</wd>
+<space />
+</ln>
+<ln b="756" baseLine="3581" fontSize="1100" l="240" r="427" t="712" underlined="none">
+<wd b="756" l="240" r="316" t="712">Pay</wd>
+<space width="86" />
+<wd b="747" l="334" r="427" t="712">Date</wd>
+<space />
+</ln>
+<ln b="808" baseLine="3878" fontSize="1100" l="238" r="486" t="773" underlined="none">
+<wd b="808" l="238" r="333" t="773">Cost</wd>
+<space width="72" />
+<wd b="808" l="348" r="486" t="773">Centre</wd>
+<space />
+</ln>
+<ln b="941" baseLine="4469" fontSize="1100" l="240" r="470" t="896" underlined="none">
+<wd b="941" l="240" r="385" t="896">Payslip</wd>
+<space width="96" />
+<wd b="931" l="405" r="470" t="896">No.</wd>
+<space />
+</ln>
+</textZone>
+<textZone b="328" chrFilter="all" fillingMethod="omnifont" l="634" r="1156" recognitionModule="omnifontPlus3w" t="296">
+<ln b="327" baseLine="1570" fontSize="900" l="634" r="1155" t="296" underlined="none">
+<wd b="327" l="634" r="705" t="296">SVS</wd>
+<space width="72" />
+<wd b="327" l="720" r="872" t="296">GROUP</wd>
+<space width="67" />
+<wd b="327" l="886" r="1006" t="296">CHEM</wd>
+<space width="67" />
+<wd b="327" l="1020" r="1155" t="296">ASEAN</wd>
+<space />
+</ln>
+</textZone>
+<textZone b="564" chrFilter="all" fillingMethod="omnifont" l="627" r="1036" recognitionModule="omnifontPlus3w" t="465">
+<ln b="501" baseLine="2405" fontSize="1100" l="627" r="836" t="465" underlined="none">
+<wd b="501" l="627" r="836" t="465">63046204</wd>
+<space />
+</ln>
+<ln b="563" baseLine="2698" fontSize="1100" l="629" r="1035" t="527" underlined="none">
+<wd b="563" l="629" r="826" t="527">Research</wd>
+<space width="82" />
+<wd b="563" l="843" r="1035" t="527">Assistant</wd>
+<space />
+</ln>
+</textZone>
+<textZone b="809" chrFilter="all" fillingMethod="omnifont" l="627" r="863" recognitionModule="omnifontPlus3w" t="650">
+<ln b="685" baseLine="3288" fontSize="1100" l="629" r="862" t="650" underlined="none">
+<wd b="685" l="629" r="862" t="650">01.06.2019</wd>
+<space />
+</ln>
+<ln b="746" baseLine="3581" fontSize="1100" l="627" r="862" t="711" underlined="none">
+<wd b="746" l="627" r="862" t="711">27.06.2019</wd>
+<space />
+</ln>
+<ln b="808" baseLine="3878" fontSize="1100" l="627" r="852" t="773" underlined="none">
+<wd b="808" l="627" r="852" t="773">6062-8800</wd>
+<space />
+</ln>
+</textZone>
+<textZone b="932" chrFilter="all" fillingMethod="omnifont" l="630" r="753" recognitionModule="omnifontPlus3w" t="896">
+<ln b="932" baseLine="4469" fontSize="1100" l="630" r="752" t="896" underlined="none">
+<wd b="931" l="630" r="644" t="896">1</wd>
+<space width="139" />
+<wd b="931" l="673" r="712" t="896">of</wd>
+<space width="120" />
+<wd b="929" l="737" r="752" t="896">1</wd>
+<space />
+</ln>
+</textZone>
+<textZone b="686" chrFilter="all" fillingMethod="omnifont" l="879" r="1143" recognitionModule="omnifontPlus3w" t="650">
+<ln b="685" baseLine="3283" fontSize="1100" l="879" r="1142" t="650" underlined="none">
+<wd b="674" l="879" r="893" t="670">-</wd>
+<space width="72" />
+<wd b="685" l="908" r="1142" t="650">30.06.2019</wd>
+<space />
+</ln>
+</textZone>
+<textZone b="809" chrFilter="all" fillingMethod="omnifont" l="965" r="1190" recognitionModule="omnifontPlus3w" t="773">
+<ln b="808" baseLine="3874" fontSize="1100" l="965" r="1189" t="773" underlined="none">
+<wd b="808" l="965" r="1063" t="773">FOR</wd>
+<space width="91" />
+<wd b="808" l="1082" r="1189" t="773">RISC</wd>
+<space />
+</ln>
+</textZone>
+<textZone b="1159" chrFilter="all" fillingMethod="omnifont" l="149" r="1489" recognitionModule="omnifontPlus3w" t="1059">
+<ln b="1096" baseLine="5227" fontSize="700" l="149" r="1488" t="1059" underlined="none">
+<wd b="1089" fontSize="900" l="149" r="324" t="1059">'ersonnel</wd>
+<space width="62" />
+<wd b="1089" fontSize="900" l="337" r="422" t="1059">Area</wd>
+<space width="240" />
+<wd b="1089" l="472" r="633" t="1065">SSCAP-SG</wd>
+<space width="48" />
+<wd b="1089" l="643" r="840" t="1065">/SINGAPORE</wd>
+<space width="43" />
+<wd b="1089" l="849" r="963" t="1065">AMMO-</wd>
+<space width="331" />
+<wd b="1096" fontSize="900" l="1032" r="1099" t="1059">Pay</wd>
+<space width="67" />
+<wd b="1089" fontSize="900" l="1113" r="1213" t="1059">Scale</wd>
+<space width="518" />
+<wd b="1089" l="1321" r="1488" t="1065">S1/01/513/1</wd>
+<space />
+</ln>
+<ln b="1158" baseLine="5515" fontSize="700" l="149" r="926" t="1120" underlined="none">
+<wd b="1158" fontSize="900" l="149" r="320" t="1121">5mployee</wd>
+<space width="67" />
+<wd b="1158" fontSize="900" l="334" r="448" t="1121">Group</wd>
+<space width="115" />
+<wd b="1151" l="472" r="622" t="1125">REGULAR</wd>
+<wd b="1151" l="623" r="716" t="1125">-White</wd>
+<space width="48" />
+<wd b="1149" l="726" r="809" t="1125">Collar</wd>
+<space width="48" />
+<wd b="1156" l="819" r="926" t="1125">Monthly</wd>
+<space />
+</ln>
+</textZone>
+<textZone b="1263" chrFilter="all" fillingMethod="omnifont" l="171" r="341" recognitionModule="omnifontPlus3w" t="1230">
+<ln b="1262" baseLine="6024" fontSize="700" l="171" r="340" t="1230" underlined="none">
+<wd b="1262" l="171" r="340" t="1230">Description</wd>
+<space />
+</ln>
+</textZone>
+<textZone b="1307" chrFilter="all" fillingMethod="omnifont" l="173" r="341" recognitionModule="omnifontPlus3w" t="1276">
+<ln b="1306" baseLine="6240" fontSize="700" l="173" r="340" t="1276" underlined="none">
+<wd b="1300" l="173" r="242" t="1276">Base</wd>
+<space width="58" />
+<wd b="1306" l="254" r="340" t="1276">Salary</wd>
+<space />
+</ln>
+</textZone>
+<textZone b="1256" chrFilter="all" fillingMethod="omnifont" l="598" r="768" recognitionModule="omnifontPlus3w" t="1182">
+<ln b="1219" baseLine="5813" fontSize="900" l="601" r="767" t="1182" underlined="none">
+<wd b="1219" l="601" r="767" t="1182">Earnings</wd>
+<space />
+</ln>
+<ln b="1255" baseLine="6024" fontSize="700" l="598" r="718" t="1231" underlined="none">
+<wd b="1255" l="598" r="718" t="1231">Number</wd>
+<space />
+</ln>
+</textZone>
+<textZone b="1256" chrFilter="all" fillingMethod="omnifont" l="874" r="1211" recognitionModule="omnifontPlus3w" t="1227">
+<ln b="1255" baseLine="6024" fontSize="700" l="874" r="1210" t="1227" underlined="none">
+<wd b="1255" l="874" r="941" t="1231">Rate</wd>
+<space width="715" />
+<wd b="1255" l="1090" r="1210" t="1227">AmOunt</wd>
+<space />
+</ln>
+</textZone>
+<textZone b="1263" chrFilter="all" fillingMethod="omnifont" l="1307" r="1477" recognitionModule="omnifontPlus3w" t="1230">
+<ln b="1262" baseLine="6024" fontSize="700" l="1307" r="1476" t="1230" underlined="none">
+<wd b="1262" l="1307" r="1476" t="1230">Description</wd>
+<space />
+</ln>
+</textZone>
+<textZone b="1349" chrFilter="all" fillingMethod="omnifont" l="1299" r="1665" recognitionModule="omnifontPlus3w" t="1275">
+<ln b="1306" baseLine="6235" fontSize="700" l="1299" r="1664" t="1275" underlined="none">
+<wd b="1306" l="1299" r="1664" t="1275">E'yee,CPF-curr.contr.fsum</wd>
+<space />
+</ln>
+<ln b="1348" baseLine="6446" fontSize="700" l="1299" r="1620" t="1319" underlined="none">
+<wd b="1348" l="1299" r="1381" t="1319">E'yee,</wd>
+<space width="53" />
+<wd b="1347" l="1392" r="1486" t="1319">CDAC,</wd>
+<space width="67" />
+<wd b="1343" l="1500" r="1620" t="1319">add.fund</wd>
+<space />
+</ln>
+</textZone>
+<textZone b="1212" chrFilter="all" fillingMethod="omnifont" l="1640" r="1850" recognitionModule="omnifontPlus3w" t="1182">
+<ln b="1211" baseLine="5813" fontSize="900" l="1640" r="1849" t="1182" underlined="none">
+<wd b="1211" l="1640" r="1849" t="1182">Deductions</wd>
+<space />
+</ln>
+</textZone>
+<textZone b="1258" chrFilter="all" fillingMethod="omnifont" l="2148" r="2267" recognitionModule="omnifontPlus3w" t="1233">
+<ln b="1257" baseLine="6034" fontSize="700" l="2148" r="2266" t="1233" underlined="none">
+<wd b="1257" l="2148" r="2266" t="1233">Amount</wd>
+<space />
+</ln>
+</textZone>
+<textZone b="1385" chrFilter="all" fillingMethod="omnifont" l="164" r="344" recognitionModule="omnifontPlus3w" t="1354">
+<ln b="1384" baseLine="6614" fontSize="700" l="164" r="343" t="1354" underlined="none">
+<wd b="1378" l="164" r="247" t="1354">*Base</wd>
+<space width="48" />
+<wd b="1384" l="257" r="343" t="1354">Salary</wd>
+<space />
+</ln>
+</textZone>
+<textZone b="1337" chrFilter="all" fillingMethod="omnifont" l="649" r="707" recognitionModule="omnifontPlus3w" t="1312">
+<ln b="1336" baseLine="6413" fontSize="700" l="649" r="706" t="1312" underlined="none">
+<wd b="1336" l="649" r="706" t="1312">1.00</wd>
+<space />
+</ln>
+</textZone>
+<textZone b="1414" chrFilter="all" fillingMethod="omnifont" l="649" r="707" recognitionModule="omnifontPlus3w" t="1389">
+<ln b="1413" baseLine="6782" fontSize="700" l="649" r="706" t="1389" underlined="none">
+<wd b="1413" l="649" r="706" t="1389">1.00</wd>
+<space />
+</ln>
+</textZone>
+<textZone b="1304" chrFilter="all" fillingMethod="omnifont" l="1089" r="1210" recognitionModule="omnifontPlus3w" t="1275">
+<ln b="1303" baseLine="6235" fontSize="700" l="1089" r="1209" t="1275" underlined="none">
+<wd b="1303" l="1089" r="1209" t="1275">3,000.00</wd>
+<space />
+</ln>
+</textZone>
+<textZone b="1382" chrFilter="all" fillingMethod="omnifont" l="1090" r="1210" recognitionModule="omnifontPlus3w" t="1353">
+<ln b="1381" baseLine="6605" fontSize="700" l="1090" r="1209" t="1354" underlined="none">
+<wd b="1381" l="1090" r="1209" t="1354">1,956.52</wd>
+<space />
+</ln>
+</textZone>
+<textZone b="1301" chrFilter="all" fillingMethod="omnifont" l="2169" r="2274" recognitionModule="omnifontPlus3w" t="1276">
+<ln b="1300" baseLine="6240" fontSize="700" l="2169" r="2262" t="1276" underlined="none">
+<wd b="1300" l="2169" r="2273" t="1276">991.00-</wd>
+</ln>
+</textZone>
+<textZone b="1345" chrFilter="all" fillingMethod="omnifont" l="2206" r="2274" recognitionModule="omnifontPlus3w" t="1320">
+<ln b="1344" baseLine="6451" fontSize="700" l="2206" r="2262" t="1320" underlined="none">
+<wd b="1344" l="2206" r="2273" t="1320">1.50-</wd>
+</ln>
+</textZone>
+<textZone b="1989" chrFilter="all" fillingMethod="omnifont" l="2143" r="2277" recognitionModule="omnifontPlus3w" t="1960">
+<ln b="1988" baseLine="9542" fontSize="900" l="2143" r="2261" t="1960" underlined="none">
+<wd b="1988" l="2143" r="2261" t="1960">992.50</wd>
+<wd b="1981" l="2265" r="2276" t="1976">-</wd>
+</ln>
+</textZone>
+<textZone b="2085" chrFilter="all" fillingMethod="omnifont" l="1265" r="2264" recognitionModule="omnifontPlus3w" t="2004">
+<ln b="2042" baseLine="9763" fontSize="900" l="1516" r="2004" t="2004" underlined="none">
+<wd b="2042" l="1516" r="1739" t="2004">:::.Employer</wd>
+<space width="58" />
+<wd b="2034" l="1751" r="2004" t="2004">Contributions</wd>
+<space />
+</ln>
+<ln b="2084" baseLine="9970" fontSize="700" l="1265" r="2263" t="2052" underlined="none">
+<wd b="2084" l="1265" r="1433" t="2052">Description</wd>
+<space width="1786" />
+<wd b="2077" l="1805" r="1869" t="2053">This</wd>
+<space width="53" />
+<wd b="2084" l="1880" r="1932" t="2053">Pay</wd>
+<space width="1296" />
+<wd b="2079" l="2202" r="2263" t="2054">YTD</wd>
+<space />
+</ln>
+</textZone>
+<textZone b="2129" chrFilter="all" fillingMethod="omnifont" l="1265" r="1508" recognitionModule="omnifontPlus3w" t="2097">
+<ln b="2128" baseLine="10181" fontSize="700" l="1265" r="1507" t="2097" underlined="none">
+<wd b="2128" l="1265" r="1405" t="2097">E'yer,CPF</wd>
+<space width="43" />
+<wd b="2128" l="1414" r="1507" t="2098">portion</wd>
+<space />
+</ln>
+</textZone>
+<textZone b="2307" chrFilter="all" fillingMethod="omnifont" l="1056" r="1210" recognitionModule="omnifontPlus3w" t="2271">
+<ln b="2306" baseLine="11040" fontSize="900" l="1056" r="1209" t="2271" underlined="none">
+<wd b="2306" l="1056" r="1209" t="2271">4,956.52</wd>
+<space />
+</ln>
+</textZone>
+<textZone b="2391" chrFilter="all" fillingMethod="omnifont" l="151" r="215" recognitionModule="omnifontPlus3w" t="2366">
+<ln b="2390" baseLine="11472" fontSize="700" l="151" r="214" t="2366" underlined="none">
+<wd b="2390" l="151" r="214" t="2366">sank</wd>
+<space />
+</ln>
+</textZone>
+<textZone b="2391" chrFilter="all" fillingMethod="omnifont" l="585" r="772" recognitionModule="omnifontPlus3w" t="2316">
+<ln b="2352" baseLine="11256" fontSize="900" l="620" r="771" t="2316" underlined="none">
+<wd b="2352" l="620" r="771" t="2316">Banking</wd>
+<space />
+</ln>
+<ln b="2390" baseLine="11472" fontSize="700" l="585" r="711" t="2366" underlined="none">
+<wd b="2390" l="585" r="711" t="2366">Account</wd>
+<space />
+</ln>
+</textZone>
+<textZone b="2391" chrFilter="all" fillingMethod="omnifont" l="948" r="1067" recognitionModule="omnifontPlus3w" t="2365">
+<ln b="2390" baseLine="11472" fontSize="700" l="948" r="1066" t="2365" underlined="none">
+<wd b="2390" l="948" r="1066" t="2365">Amount</wd>
+<space />
+</ln>
+</textZone>
+<textZone b="2592" chrFilter="all" fillingMethod="omnifont" l="152" r="1064" recognitionModule="omnifontPlus3w" t="2509">
+<ln b="2540" baseLine="12182" fontSize="900" l="479" r="890" t="2509" underlined="none">
+<wd b="2538" l="479" r="588" t="2509">Leave</wd>
+<space width="67" />
+<wd b="2540" l="602" r="750" t="2509">Balance</wd>
+<space width="67" />
+<wd b="2538" l="764" r="890" t="2509">Details</wd>
+<space />
+</ln>
+<ln b="2591" baseLine="12403" fontSize="700" l="152" r="1063" t="2560" underlined="single">
+<wd b="2591" l="152" r="219" t="2560">Type</wd>
+<space width="3701" />
+<wd b="2584" l="990" r="1063" t="2560">Total</wd>
+<space />
+</ln>
+</textZone>
+<textZone b="2123" chrFilter="all" fillingMethod="omnifont" l="1839" r="1934" recognitionModule="omnifontPlus3w" t="2098">
+<ln b="2122" baseLine="10186" fontSize="700" l="1839" r="1933" t="2098" underlined="none">
+<wd b="2122" l="1839" r="1933" t="2098">843.00</wd>
+<space />
+</ln>
+</textZone>
+<textZone b="2123" chrFilter="all" fillingMethod="omnifont" l="2172" r="2266" recognitionModule="omnifontPlus3w" t="2098">
+<ln b="2122" baseLine="10186" fontSize="700" l="2172" r="2265" t="2098" underlined="none">
+<wd b="2122" l="2172" r="2265" t="2098">843.00</wd>
+<space />
+</ln>
+</textZone>
+<textZone b="2659" chrFilter="all" fillingMethod="omnifont" l="1289" r="1437" recognitionModule="omnifontPlus3w" t="2627">
+<ln b="2658" baseLine="12725" fontSize="700" l="1289" r="1436" t="2627" underlined="none">
+<wd b="2658" l="1289" r="1436" t="2627">escription</wd>
+<space />
+</ln>
+</textZone>
+<textZone b="2659" chrFilter="all" fillingMethod="omnifont" l="1685" r="2267" recognitionModule="omnifontPlus3w" t="2577">
+<ln b="2615" baseLine="12509" fontSize="900" l="1685" r="1863" t="2577" underlined="none">
+<wd b="2615" l="1685" r="1863" t="2577">Summary</wd>
+<space />
+</ln>
+<ln b="2658" baseLine="12725" fontSize="700" l="1816" r="2266" t="2627" underlined="none">
+<wd b="2651" l="1816" r="1880" t="2627">This</wd>
+<space width="53" />
+<wd b="2658" l="1891" r="1943" t="2627">Pay</wd>
+<space width="1253" />
+<wd b="2653" l="2204" r="2266" t="2627">YTD</wd>
+<space />
+</ln>
+</textZone>
+<textZone b="2838" chrFilter="all" fillingMethod="omnifont" l="1264" r="2277" recognitionModule="omnifontPlus3w" t="2671">
+<ln b="2702" baseLine="12936" fontSize="700" l="1264" r="2266" t="2671" underlined="none">
+<wd b="2695" l="1264" r="1334" t="2671">Total</wd>
+<space width="53" />
+<wd b="2702" l="1345" r="1465" t="2671">Earnings</wd>
+<space width="1675" />
+<wd b="2699" l="1814" r="1933" t="2672">4,956.52</wd>
+<space width="1022" />
+<wd b="2701" l="2146" r="2266" t="2672">4,956.52</wd>
+<space />
+</ln>
+<ln b="2742" baseLine="13152" fontSize="700" l="1265" r="2265" t="2716" underlined="none">
+<wd b="2740" l="1265" r="1334" t="2716">Total</wd>
+<space width="53" />
+<wd b="2740" l="1345" r="1500" t="2716">Deductions</wd>
+<space width="1627" />
+<wd b="2740" l="1839" r="1945" t="2716">992.50-</wd>
+<space width="1090" />
+<wd b="2742" l="2172" r="2265" t="2718">992.50</wd>
+<wd b="2735" l="2268" r="2276" t="2730">-</wd>
+</ln>
+<ln b="2785" baseLine="13368" fontSize="700" l="1266" r="1342" t="2761" underlined="none">
+<wd b="2785" l="1266" r="1342" t="2761">Claim</wd>
+<space />
+</ln>
+<ln b="2837" baseLine="13584" fontSize="700" l="1266" r="2268" t="2806" underlined="none">
+<wd b="2830" l="1266" r="1313" t="2806">Net</wd>
+<space width="62" />
+<wd b="2837" l="1326" r="1376" t="2806">Pay</wd>
+<space width="2107" />
+<wd b="2835" l="1815" r="1933" t="2806">3,964.02</wd>
+<space width="1032" />
+<wd b="2836" l="2148" r="2268" t="2808">3,964.02</wd>
+<space />
+</ln>
+</textZone>
+<textZone b="3004" chrFilter="all" fillingMethod="omnifont" l="1125" r="1311" recognitionModule="omnifontPlus3w" t="2966">
+<ln b="3003" baseLine="14376" fontSize="900" l="1125" r="1310" t="2966" underlined="none">
+<wd b="3003" l="1125" r="1310" t="2966">Messages</wd>
+<space />
+</ln>
+</textZone>
+<rulerline b="3142" color="000000" l="2299" r="2299" t="1039" type="single" width="14" />
+<rulerline b="1004" color="000000" l="2298" r="2298" t="23" type="single" width="14" />
+<rulerline b="2960" color="000000" l="1245" r="1245" t="1172" type="single" width="19" />
+<rulerline b="3139" color="000000" l="154" r="2306" t="3139" type="single" width="24" />
+<rulerline b="3007" color="000000" l="152" r="2304" t="3007" type="single" width="14" />
+<rulerline b="2959" color="000000" l="152" r="2304" t="2959" type="single" width="24" />
+<rulerline b="2663" color="000000" l="1244" r="2303" t="2663" type="single" width="24" />
+<rulerline b="2570" color="000000" l="1242" r="2303" t="2570" type="single" width="19" />
+<rulerline b="2525" color="000000" l="1242" r="2303" t="2525" type="single" width="19" />
+<rulerline b="2502" color="000000" l="152" r="1247" t="2502" type="single" width="24" />
+<rulerline b="2398" color="000000" l="151" r="1247" t="2398" type="single" width="19" />
+<rulerline b="2310" color="000000" l="151" r="1247" t="2310" type="single" width="19" />
+<rulerline b="2264" color="000000" l="151" r="1247" t="2264" type="single" width="19" />
+<rulerline b="2089" color="000000" l="1241" r="2301" t="2089" type="single" width="24" />
+<rulerline b="1997" color="000000" l="1241" r="2301" t="1997" type="single" width="24" />
+<rulerline b="1953" color="000000" l="1241" r="2301" t="1953" type="single" width="24" />
+<rulerline b="1266" color="000000" l="149" r="2301" t="1266" type="single" width="19" />
+<rulerline b="1175" color="000000" l="149" r="2301" t="1175" type="single" width="24" />
+<rulerline b="1041" color="000000" l="149" r="2301" t="1041" type="single" width="19" />
+<rulerline b="1002" color="000000" l="149" r="2300" t="1002" type="single" width="19" />
+<rulerline b="148" color="000000" l="877" r="969" t="148" type="single" width="5" />
+<rulerline b="139" color="000000" l="371" r="508" t="139" type="single" width="10" />
+</zones>
+</page>
+</document>

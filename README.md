@@ -1,7 +1,3 @@
-# Salary-Slip-data-extraction-v1
-
-
-
 ## Dictionary Keys update:
 Call this function from xml_json_parser.py file.
 
